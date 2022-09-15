@@ -1,8 +1,8 @@
 # Código de inicio para Refactorización el código
 
 # Links:
-1. [Github Repository](https://github.com/jaime-a-esquivel-a/Horiseon)
-2. [Horiseon Site](https://github.com/jaime-a-esquivel-a/Horiseon/Develop/index.html)
+1. [Github Repository](https://jaime-a-esquivel-a.github.io/Horiseon)
+2. [Horiseon Site](https://jaime-a-esquivel-a.github.io/Horiseon/Develop/index.html)
 
 # User story:
 ```
