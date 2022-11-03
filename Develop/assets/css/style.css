@@ -11,7 +11,7 @@ body {
 }
 
 /*class: 'header'*/
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -19,18 +19,18 @@ body {
 }
 
 /*<h1> within class 'header'*/
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /*class 'seo' within element <h1> within class 'header'*/
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 /*<div> within class 'header'*/
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -38,11 +38,11 @@ body {
     font-size: 20px;
 }
 /*<ul> within <div> within class 'header'*/
-.header div ul {
+header div ul {
     list-style-type: none;
 }
 /*<li> within <ul> within <div> within class 'header'*/
-.header div ul li {
+header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -195,13 +195,13 @@ p {
     font-size: 36px;
 }
 /*class 'footer'*/
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 /*<h2> element within class 'footer'*/
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
